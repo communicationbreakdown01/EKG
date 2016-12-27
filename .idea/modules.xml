@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EKG.iml" filepath="$PROJECT_DIR$/.idea/modules/EKG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EKG_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EKG_main.iml" group="EKG" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EKG_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EKG_test.iml" group="EKG" />
+    </modules>
+  </component>
+</project>

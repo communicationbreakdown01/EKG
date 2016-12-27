@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="EKG:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="EKG" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.pi4j:pi4j-core:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.pi4j:pi4j-gpio-extension:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-java7:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-tcp:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-im:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-extensions:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-resolver-javax:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-sasl-javax:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-core:4.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-core:0.4.2-beta1" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-util-cache:0.4.2-beta1" level="project" />
+  </component>
+</module>
